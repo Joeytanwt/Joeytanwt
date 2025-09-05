@@ -1,7 +1,7 @@
-Hey there! I'm Joey – a Data Science student with a passion for turning data into real-world solutions.
+👋 Hey there! I'm Joey.
 
-I'm always finding creative ways to solve problems, whether it's launching new product lines, optimizing e-commerce platforms, or uncovering insights from complex datasets. I'm adept at working with SQL, Python, and Tableau to clean, analyze, and visualize data that drives smart decisions.
+I spent 10 years in the hospitality industry and witnessed the challenges that led to many business closures.
+This sparked my career shift to data analytics, where I now help businesses make data-driven decisions.
 
-I worked in the hospitality industry for 10 years and saw many businesses fail, this led me to switch careers to become a business developer. I'm currently leveling up my skills with a Specialist Diploma in Business Analytics and Applied Data Science and a Bachelor's Degree in Global Business Management.
-
-Let's connect and explore how we can create something awesome together!
+Currently, I analyse sales and marketing data using Snowflake, SQL, Python, Azure, and Power BI.
+I'm also advancing my expertise through a BA (Hons) in Global Business Management and a Specialist Diploma in Data Science.
