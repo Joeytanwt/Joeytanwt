@@ -14,7 +14,7 @@ I'm also advancing my expertise through a BA (Hons) in Global Business Managemen
 ---
 
 **💡 Top Skills**
-- Python | SQL | Snowflake | Power BI | Tableau | Excel | Azure | AWS
+- Python | SQL | Snowflake | Power BI | Tableau | Excel | Azure | AWS | Knime | SAS
 
 ---
 
