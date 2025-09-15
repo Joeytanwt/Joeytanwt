@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Joey
 
-**Data Analyst | Part-time Data Science Student**
+**Data Analyst | Singapore**
 
 ---
 
