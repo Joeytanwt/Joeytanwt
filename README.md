@@ -25,7 +25,7 @@ I'm also advancing my expertise through a BA (Hons) in Global Business Managemen
 
 ---
 
-**🎯 Hobbies**\
+**🎸 Hobbies**\
 I enjoy learning new languages (currently speak 4: English, Mandarin, Spanish & Japanese), and making music (check out my band [here](https://linktr.ee/bikebandsg?utm_source=linktree_profile_share&ltsid=62cf678b-779b-44c7-88c8-d09bcae60c22)!)
 
 ---
