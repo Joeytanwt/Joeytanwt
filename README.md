@@ -19,8 +19,9 @@ I'm also advancing my expertise through a BA (Hons) in Global Business Managemen
 ---
 
 **🚀 Featured Projects**
-- **[Snowflake AI Project: Call Center Sentiment Analysis](https://github.com/Joeytanwt/Snowflake-Project-Cortex-AI-Call-Center-Analysis)**
-- **[Machine Learning Project: Customer Segmentation](https://github.com/Joeytanwt/Project8-ML-CustomerSegmentation)**  
+- **[Snowflake LLM Project: Call Center Sentiment Analysis](https://github.com/Joeytanwt/Snowflake-Project-Cortex-AI-Call-Center-Analysis)**
+- **[Machine Learning Project: Customer Segmentation](https://github.com/Joeytanwt/Project8-ML-CustomerSegmentation)**
+- **[Machine Learning Project: Restaurant Transactions Association Rules Mining](https://github.com/Joeytanwt/Project9-ML-AssociationRuleMining)**  
 - **[Power BI Project: Sales Analysis](https://github.com/Joeytanwt/Project6-PowerBI-DataCleaning-Visualisation)**  
 - **[Webscraping Project: Automating Data Extraction from Public API](https://github.com/Joeytanwt/Project4-Python-Automating-API-Scraping)**
 
