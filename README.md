@@ -1,10 +1,5 @@
 # 👋 Hey there! I'm Joey
-
-**Data Analyst | Singapore**
-
----
-
-🔹 **Bio:**  
+ 
 I spent 10 years in the hospitality industry and witnessed the challenges that led to many business closures.
 This sparked my career shift to data analytics, where I now help businesses make data-driven decisions.
 
@@ -15,7 +10,10 @@ I'm also advancing my expertise through a BA (Hons) in Global Business Managemen
 ---
 
 **💡 Top Skills**
-- Python | SQL | Snowflake | Power BI | Tableau | Excel | Azure | AWS | Knime | SAS
+* Languages: Python | SQL
+* Cloud: GCP | Snowflake | Azure | SAS
+* Reporting Tools: Power BI | Tableau
+* Software: Excel, Word, Powerpoint, Knime
 
 ---
 
