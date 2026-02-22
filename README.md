@@ -11,7 +11,7 @@ I'm also advancing my expertise through a BA (Hons) in Global Business Managemen
 
 **💡 Top Skills**
 * **Languages:** Python | SQL
-* **Cloud:** GCP | Snowflake | Azure | SAS
+* **Cloud:** GCP | Snowflake | Azure
 * **Reporting Tools:** Power BI | Tableau
 * **Software:** Excel, Word, Powerpoint, Knime
 
